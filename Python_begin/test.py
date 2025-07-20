@@ -1,4 +1,4 @@
 import sys
-print("Python version")
-print(sys.version)
-print("hello world")
+
+current_date = date.today()
+print(f"Current date: {current_date}")
